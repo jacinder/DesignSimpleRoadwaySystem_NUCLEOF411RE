@@ -26,7 +26,9 @@ client 보드에서의 조작으로 실행이 가능합니다.
 
 client.cpp를 처음 실행을 시키면 VER0인 상태가 default입니다.
 '*'로 pc입력 시 VER 변경이 가능합니다.
+
  VER 0: traffic control ver.
+ 
  VER 1: street light control ver.
 
 [ VER 0 ]

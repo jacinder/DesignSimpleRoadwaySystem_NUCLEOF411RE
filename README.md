@@ -10,10 +10,12 @@ CDS sensor
 ESP-01 (x2)
 LED (x6)
 
-server-client 통신망 구성도
+[server-client 통신망 구성도]
+
 <img width="452" alt="server-client통신망연결" src="https://user-images.githubusercontent.com/47296316/122634220-e583b880-d117-11eb-9b36-a0d9c79c5b2f.png">
 
-센서 연결 구성도
+[센서 연결 구성도]
+
 <img width="452" alt="server-client센서연결" src="https://user-images.githubusercontent.com/47296316/122634192-b4a38380-d117-11eb-93f4-39fcdd86a968.png">
 
 

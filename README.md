@@ -38,5 +38,3 @@ pc로 입력한 값으로 제어가 가능하다.<br/>
 
 실행영상 → https://www.youtube.com/watch?v=6me1nBNLveA<br/>
 과제 제출용 최종 보고서 → https://docs.google.com/document/d/1Aib994tB63Aqfd_cv0hufCGR6FaU5ygOtQIRFCEY1po/edit?usp=sharing<br/>
-
-#임베디드프로젝트

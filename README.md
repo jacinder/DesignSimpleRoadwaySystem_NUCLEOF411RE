@@ -36,5 +36,5 @@ pc로 입력한 값으로 제어가 가능하다.<br/>
 가로등의 제어가 가능하다<br/>
 - 'I' : 조도센서(TCP PORT에 연결)에서 값을 읽어 가로등을 제어합니다.<br/><br/><br/><br/>
 
-실행영상 → https://www.youtube.com/watch?v=6me1nBNLveA<br/>
-과제 제출용 최종 보고서 → https://docs.google.com/document/d/1Aib994tB63Aqfd_cv0hufCGR6FaU5ygOtQIRFCEY1po/edit?usp=sharing<br/>
+<a href=https://www.youtube.com/watch?v=6me1nBNLveA>실행영상</a> | 
+<a href=https://docs.google.com/document/d/1Aib994tB63Aqfd_cv0hufCGR6FaU5ygOtQIRFCEY1po/edit?usp=sharing>최종 보고서</a>
